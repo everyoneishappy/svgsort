@@ -24,7 +24,7 @@ from .paper_utils import get_long_short
 from .paper_utils import vbox_paper
 
 
-STROKE_WIDTH = 1.0
+STROKE_WIDTH = 0.001
 
 
 def get_init_pos(bb, rnd):
